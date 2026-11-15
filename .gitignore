@@ -1,0 +1,10 @@
+mint_data.json
+mint_error.txt
+MINT_backup.py
+MINT_before_apk.py
+__pycache__/
+*.py[cod]
+.buildozer/
+bin/
+*.apk
+*.aab
