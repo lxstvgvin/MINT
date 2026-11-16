@@ -11,7 +11,7 @@ icon.filename = %(source.dir)s/icon.png
 presplash.filename = %(source.dir)s/presplash.png
 source.exclude_dirs = __pycache__,.buildozer,bin
 
-version = 0.1.0
+version = 0.2.0
 
 requirements = python3,kivy==2.3.1,charset-normalizer==2.1.1
 p4a.branch = develop
