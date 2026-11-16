@@ -17,7 +17,7 @@ orientation = portrait
 fullscreen = 0
 android.accept_sdk_license = True
 android.permissions =
-android.archs = arm64-v8a
+android.archs = armeabi-v7a
 
 [buildozer]
 
