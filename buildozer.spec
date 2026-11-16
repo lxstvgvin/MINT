@@ -7,6 +7,7 @@ package.domain = org.example
 
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
+icon.filename = %(source.dir)s/icon.png
 source.exclude_dirs = __pycache__,.buildozer,bin
 
 version = 0.1.0
